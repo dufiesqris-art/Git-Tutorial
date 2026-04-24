@@ -5,12 +5,12 @@
 <style>
 body {background-color: powderblue;}
 h1   {color: blue;}
-p    {color: red;}
+p    {color: greenyellow;}
 </style>
 </head>
 <body>
 
-<h1>QArt
+<h1>QArt</h1>
 <p>In Oils.</p>
 
 </body>
