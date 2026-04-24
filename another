@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    
+
+body {background-color: rgb(176, 230, 221);}
+h1   {color: rgb(196, 49, 130);}
+p    {color: rgb(28, 5, 80);}
+</style>
+</head>
+<body>
+
+<h1>QArt</h1>
+<p>In Acrylics.</p>
+
+</body>
+</html> 
